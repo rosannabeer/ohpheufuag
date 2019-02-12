@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ioghoot.dagmar-strilkova.cz/sitemap.xml
